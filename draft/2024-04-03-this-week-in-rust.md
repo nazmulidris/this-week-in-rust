@@ -39,6 +39,8 @@ and just ask the editors to select the category.
 
 ### Rust Walkthroughs
 
+- [video] [developerlife.com - Getting started with unit testing in Rust]([https://studio.youtube.com/playlist/PLofhE49PEwmwLR_4Noa0dFOSPmSpIg_l8/edit](https://www.youtube.com/watch?v=Xt495QLrFFk&list=PLofhE49PEwmwLR_4Noa0dFOSPmSpIg_l8))
+
 ### Research
 
 ### Miscellaneous
